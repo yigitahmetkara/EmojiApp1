@@ -28,8 +28,6 @@ EmojiApp.xcodeproj dosyasını Xcode ile açın.
 Command + R tuşlarına basarak simülatörde çalıştırın.
 
 Uygulama Ekran Görüntüleri
-<img src="Ekran Resmi 2026-01-28 20.22.18" width="300" alt="Uygulama Ekran Goruntusu">
-<img src="Ekran Resmi 2026-01-28 20.22.26" width="300" alt="Uygulama Ekran Goruntusu">
-<img src="Ekran Resmi 2026-01-28 20.22.29" width="300" alt="Uygulama Ekran Goruntusu">
-📝 Notlar
-Bu uygulama iOS 15.0+ v
+<img src="Ekran Resmi 2026-01-28 20.22.18.png" width="300" alt="Uygulama Ekran Goruntusu">
+<img src="Ekran Resmi 2026-01-28 20.22.26.png" width="300" alt="Uygulama Ekran Goruntusu">
+<img src="Ekran Resmi 2026-01-28 20.22.29.png" width="300" alt="Uygulama Ekran Goruntusu">
